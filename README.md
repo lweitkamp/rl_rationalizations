@@ -1,6 +1,6 @@
 # Explainable Reinforcement Learning: Visual Policy Rationalizations Using Grad-CAM
 This reposity is holds the code needed to reproduce the results for my thesis.
-The Grad-CAM implementaion used is based on https://github.com/kazuto1011/grad-cam-pytorch,
+The Grad-CAM implementation used is based on https://github.com/kazuto1011/grad-cam-pytorch,
 the A3C implementation is based on https://github.com/ikostrikov/pytorch-a3c.
 
 ## How to use the code
